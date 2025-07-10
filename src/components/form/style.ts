@@ -101,7 +101,7 @@ export const FormStyle = styled.div`
       background: #322939;
       border-radius: 6px;
       font-weight: 700;
-      color: #F3ECE2;
+      color: #f3ece2;
       font-family: var(--font-primary);
       font-size: 20px;
       transition: all 0.5s;

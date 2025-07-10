@@ -30,7 +30,7 @@ export const HeaderStyle = styled.header`
     span {
       width: 1px;
       height: 35px;
-      background: #CCC0A6;
+      background: #ccc0a6;
     }
     @media (max-width: 1024px) {
       display: none;

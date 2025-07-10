@@ -15,7 +15,7 @@ export const ItemsSectionStyle = styled.div`
     align-items: center;
     font-family: var(--font-primary);
     .loteamento {
-      color: #AD986A;
+      color: #ad986a;
       font-weight: 400;
       font-size: 22px;
       line-height: 30px;
@@ -32,7 +32,7 @@ export const ItemsSectionStyle = styled.div`
       }
     }
     .values {
-      color: #F3ECE2;
+      color: #f3ece2;
       font-weight: 400;
       font-size: 18px;
       line-height: 30px;
@@ -62,12 +62,12 @@ export const ItemsSectionStyle = styled.div`
       white-space: nowrap;
       text-decoration: none;
       padding: 1rem 2rem;
-      background: #CCC0A6;
+      background: #ccc0a6;
       border-radius: 7px;
       font-weight: 700;
       font-size: 18px;
       line-height: 24px;
-      color: #3B2E38;
+      color: #3b2e38;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -86,13 +86,12 @@ export const ItemsSectionStyle = styled.div`
     }
     @media (max-width: 1200px) {
       gap: 1.5rem;
-      
     }
 
     .line {
       width: 1px;
       height: 80px;
-      background: #AD986A;
+      background: #ad986a;
       @media (max-width: 1200px) {
         width: 80px;
         height: 1px;

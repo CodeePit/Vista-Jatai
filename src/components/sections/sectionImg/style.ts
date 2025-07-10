@@ -4,7 +4,7 @@ export const SectionImgStyle = styled.div`
   width: 100%;
   height: auto;
   padding: 2rem 5rem;
-  background: #AD986A;
+  background: #ad986a;
   display: flex;
   justify-content: center;
   align-items: center;

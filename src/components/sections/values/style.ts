@@ -91,7 +91,7 @@ export const ValueSectionStyle = styled.div`
     .line {
       width: 1px;
       height: 80px;
-      background: #AD986A;
+      background: #ad986a;
       @media (max-width: 1200px) {
         width: 80px;
         height: 1px;

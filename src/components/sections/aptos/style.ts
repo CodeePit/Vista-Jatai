@@ -24,7 +24,7 @@ export const AptosSectionStyle = styled.div`
       h1 {
         font-size: 64px;
         font-weight: 400;
-        color: #3B2E38;
+        color: #3b2e38;
         font-family: var(--font-secondary);
         @media (max-width: 768px) {
           font-size: 32px;
@@ -34,7 +34,7 @@ export const AptosSectionStyle = styled.div`
       .line {
         height: 1px;
         width: 100px;
-        background: #AD986A;
+        background: #ad986a;
       }
       @media (max-width: 1200px) {
         align-items: center;
@@ -44,7 +44,7 @@ export const AptosSectionStyle = styled.div`
       white-space: nowrap;
       text-decoration: none;
       padding: 1rem 1.5rem;
-      background:#AD986A;
+      background: #ad986a;
       border-radius: 7px;
       font-weight: 700;
       font-size: 18px;
@@ -83,7 +83,7 @@ export const AptosSectionStyle = styled.div`
         align-items: center;
         gap: 1rem;
         font-size: 20px;
-        color: #AD986A;
+        color: #ad986a;
         font-weight: 700;
         svg {
           width: 70px;
@@ -123,7 +123,7 @@ export const AptosSectionStyle = styled.div`
     transform: translateX(75%);
     button {
       padding: 1rem 3rem;
-      background-color: #CCC0A6;
+      background-color: #ccc0a6;
       border-radius: 6px;
       color: white;
       line-height: 24px;

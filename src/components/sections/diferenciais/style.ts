@@ -48,7 +48,7 @@ export const DiferenciasStyle = styled.div`
             font-weight: 400;
             font-size: 18px;
             line-height: 26px;
-            color: #DFD8CE;
+            color: #dfd8ce;
             font-family: var(--font-primary);
             transition: all 0.5s;
           }
@@ -57,9 +57,9 @@ export const DiferenciasStyle = styled.div`
           }
         }
         .active {
-          background-color: #27202C;
+          background-color: #27202c;
           span {
-            background: #AD986A;
+            background: #ad986a;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -98,7 +98,7 @@ export const DiferenciasStyle = styled.div`
           width: auto;
           display: flex;
           align-items: center;
-          color: #DFD8CE;
+          color: #dfd8ce;
           gap: 1rem;
         }
         @media (max-width: 769px) {
@@ -107,10 +107,10 @@ export const DiferenciasStyle = styled.div`
         }
       }
       .swiper-button-next {
-        color: #DFD8CE !important;
+        color: #dfd8ce !important;
       }
       .swiper-button-prev {
-        color: #DFD8CE !important;
+        color: #dfd8ce !important;
       }
     }
     @media (max-width: 1200px) {

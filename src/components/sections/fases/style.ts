@@ -25,7 +25,7 @@ export const FasesStyle = styled.div`
       align-items: start;
       .escolha {
         text-align: start;
-        padding: 1rem 3rem 1rem 1.5rem; 
+        padding: 1rem 3rem 1rem 1.5rem;
         font-size: 15px;
         font-weight: 400;
         width: 40rem;

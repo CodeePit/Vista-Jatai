@@ -42,7 +42,10 @@ export default class MyDocument extends Document {
           {/* FONTS */}
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" />
-          <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet"></link>
+          <link
+            href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+            rel="stylesheet"
+          />
           <link rel="icon" type="image/x-icon" href="./img/logo.png" />
 
           {/* METAS */}
@@ -70,6 +73,7 @@ export default class MyDocument extends Document {
               width="1"
               style={{ display: 'none' }}
               src="https://www.facebook.com/tr?id=1371549117013445&ev=PageView&noscript=1"
+              alt=""
             />
           </noscript>
 

@@ -4,12 +4,12 @@ export const LegalStyle = styled.footer`
   width: 100%;
   padding: 2rem;
   height: auto;
-  background-color:#322939;
+  background-color: #322939;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: #CCC0A6;
+  color: #ccc0a6;
   gap: 2rem;
   font-family: var(--font-primary);
   font-size: 10px;
