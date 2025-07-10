@@ -23,12 +23,12 @@ export const Navs: iNavs[] = [
   },
   {
     id: '4',
-    label: 'Contato',
-    link: '#contato',
+    label: 'Institucional',
+    link: '#sobre',
   },
   {
     id: '5',
-    label: 'Institucional',
-    link: '#sobre',
+    label: 'Contato',
+    link: '#contato',
   },
 ];
