@@ -41,9 +41,9 @@ const Adaptavel = () => {
           y2="25.75"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_631_1690"
@@ -53,9 +53,9 @@ const Adaptavel = () => {
           y2="26.9714"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <clipPath id="clip0_631_1690">
           <rect width="53.14" height="51.5" fill="white" />

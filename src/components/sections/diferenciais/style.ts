@@ -4,7 +4,7 @@ export const DiferenciasStyle = styled.div`
   width: 100%;
   height: auto;
   padding: 5rem;
-  background-color: #594855;
+  background-color: #322939;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,7 +39,7 @@ export const DiferenciasStyle = styled.div`
           background-color: black;
           border-top-left-radius: 10px;
           border-top-right-radius: 10px;
-          background-color: #3b2e3860;
+          background-color: #564151;
           transition: all 0.5s;
           span {
             color: white;
@@ -48,6 +48,7 @@ export const DiferenciasStyle = styled.div`
             font-weight: 400;
             font-size: 18px;
             line-height: 26px;
+            color: #DFD8CE;
             font-family: var(--font-primary);
             transition: all 0.5s;
           }
@@ -56,9 +57,9 @@ export const DiferenciasStyle = styled.div`
           }
         }
         .active {
-          background-color: #3b2e38;
+          background-color: #27202C;
           span {
-            background: var(--color-background-cobre);
+            background: #AD986A;
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
@@ -97,13 +98,19 @@ export const DiferenciasStyle = styled.div`
           width: auto;
           display: flex;
           align-items: center;
-          color: white;
+          color: #DFD8CE;
           gap: 1rem;
         }
         @media (max-width: 769px) {
           grid-template-columns: 100%;
           padding: 2rem 3.5rem;
         }
+      }
+      .swiper-button-next {
+        color: #DFD8CE !important;
+      }
+      .swiper-button-prev {
+        color: #DFD8CE !important;
       }
     }
     @media (max-width: 1200px) {

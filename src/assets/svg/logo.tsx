@@ -245,9 +245,9 @@ const Logo = () => {
           y2="51.2547"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_503_106"
@@ -257,9 +257,9 @@ const Logo = () => {
           y2="55.6786"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_503_106"
@@ -269,9 +269,9 @@ const Logo = () => {
           y2="47.9952"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_503_106"
@@ -281,9 +281,9 @@ const Logo = () => {
           y2="43.0995"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_503_106"
@@ -293,9 +293,9 @@ const Logo = () => {
           y2="38.4695"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <clipPath id="clip0_503_106">
           <rect width="197" height="77" fill="white" />

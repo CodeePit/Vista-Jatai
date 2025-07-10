@@ -156,9 +156,9 @@ const Ceramica = () => {
           y2="30.7698"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_631_1540"
@@ -168,9 +168,9 @@ const Ceramica = () => {
           y2="33.0134"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_631_1540"
@@ -180,9 +180,9 @@ const Ceramica = () => {
           y2="37.6596"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_631_1540"
@@ -192,9 +192,9 @@ const Ceramica = () => {
           y2="39.0612"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_631_1540"
@@ -204,9 +204,9 @@ const Ceramica = () => {
           y2="34.3799"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint5_linear_631_1540"
@@ -216,9 +216,9 @@ const Ceramica = () => {
           y2="34.7959"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint6_linear_631_1540"
@@ -228,9 +228,9 @@ const Ceramica = () => {
           y2="4.75979"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint7_linear_631_1540"
@@ -240,9 +240,9 @@ const Ceramica = () => {
           y2="5.9393"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint8_linear_631_1540"
@@ -252,9 +252,9 @@ const Ceramica = () => {
           y2="17.5398"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint9_linear_631_1540"
@@ -264,9 +264,9 @@ const Ceramica = () => {
           y2="19.6599"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint10_linear_631_1540"
@@ -276,9 +276,9 @@ const Ceramica = () => {
           y2="8.63"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint11_linear_631_1540"
@@ -288,9 +288,9 @@ const Ceramica = () => {
           y2="7.10861"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <clipPath id="clip0_631_1540">
           <rect width="65.62" height="63.47" fill="white" />

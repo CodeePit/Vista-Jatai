@@ -105,9 +105,9 @@ const AutomacaoIcon = () => {
           y2="27.3725"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_631_2496"
@@ -117,9 +117,9 @@ const AutomacaoIcon = () => {
           y2="28.1706"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_631_2496"
@@ -129,9 +129,9 @@ const AutomacaoIcon = () => {
           y2="23.4301"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_631_2496"
@@ -141,9 +141,9 @@ const AutomacaoIcon = () => {
           y2="25.2901"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_631_2496"
@@ -153,9 +153,9 @@ const AutomacaoIcon = () => {
           y2="19.1113"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint5_linear_631_2496"
@@ -165,9 +165,9 @@ const AutomacaoIcon = () => {
           y2="17.3579"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint6_linear_631_2496"
@@ -177,9 +177,9 @@ const AutomacaoIcon = () => {
           y2="23"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint7_linear_631_2496"
@@ -189,9 +189,9 @@ const AutomacaoIcon = () => {
           y2="22.8835"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
       </defs>
     </svg>

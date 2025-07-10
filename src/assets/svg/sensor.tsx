@@ -196,9 +196,9 @@ const Sensor = () => {
           y2="5.49998"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint1_linear_654_148"
@@ -208,9 +208,9 @@ const Sensor = () => {
           y2="7.07839"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint2_linear_654_148"
@@ -220,9 +220,9 @@ const Sensor = () => {
           y2="10.3199"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint3_linear_654_148"
@@ -232,9 +232,9 @@ const Sensor = () => {
           y2="10.3175"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint4_linear_654_148"
@@ -244,9 +244,9 @@ const Sensor = () => {
           y2="0.87"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint5_linear_654_148"
@@ -256,9 +256,9 @@ const Sensor = () => {
           y2="-1.7867"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint6_linear_654_148"
@@ -268,9 +268,9 @@ const Sensor = () => {
           y2="16.7832"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint7_linear_654_148"
@@ -280,9 +280,9 @@ const Sensor = () => {
           y2="17.3558"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint8_linear_654_148"
@@ -292,9 +292,9 @@ const Sensor = () => {
           y2="16.7785"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint9_linear_654_148"
@@ -304,9 +304,9 @@ const Sensor = () => {
           y2="17.2356"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint10_linear_654_148"
@@ -316,9 +316,9 @@ const Sensor = () => {
           y2="18.1399"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint11_linear_654_148"
@@ -328,9 +328,9 @@ const Sensor = () => {
           y2="14.9595"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint12_linear_654_148"
@@ -340,9 +340,9 @@ const Sensor = () => {
           y2="37.6201"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint13_linear_654_148"
@@ -352,9 +352,9 @@ const Sensor = () => {
           y2="34.9232"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint14_linear_654_148"
@@ -364,9 +364,9 @@ const Sensor = () => {
           y2="14"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <linearGradient
           id="paint15_linear_654_148"
@@ -376,9 +376,9 @@ const Sensor = () => {
           y2="14.1114"
           gradientUnits="userSpaceOnUse"
         >
-          <stop stopColor="#B37C67" />
-          <stop offset="0.5" stopColor="#D59C85" />
-          <stop offset="1" stopColor="#B37C67" />
+          <stop stopColor="#AD986A" />
+          <stop offset="0.5" stopColor="#AD986A" />
+          <stop offset="1" stopColor="#AD986A" />
         </linearGradient>
         <clipPath id="clip0_654_148">
           <rect width="55.79" height="55.7" fill="white" />

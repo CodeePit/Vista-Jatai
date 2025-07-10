@@ -42,9 +42,9 @@ const Sobre = () => {
           João, Av. São Paulo, entre outras.
         </div>
 
-        <div className="block">
+        <strong className="block">
           Julio & Julio, especialistas em construir histórias.
-        </div>
+        </strong>
       </div>
     </SobreStyle>
   );

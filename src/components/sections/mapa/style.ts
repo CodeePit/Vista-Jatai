@@ -32,7 +32,7 @@ export const MapaStyle = styled.div`
       .firstText {
         font-weight: 700;
         font-size: 1.5rem;
-        color: var(--color-background-darkVinho);
+        color: #3B2E38;
         line-height: 36px;
       }
       .secondText {

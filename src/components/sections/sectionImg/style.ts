@@ -4,11 +4,12 @@ export const SectionImgStyle = styled.div`
   width: 100%;
   height: auto;
   padding: 2rem 5rem;
-  background: var(--color-background-lightVinho);
+  background: #AD986A;
   display: flex;
   justify-content: center;
   align-items: center;
   .content {
+    max-width: 1200px;
     width: 100%;
     height: 100%;
     img {

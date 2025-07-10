@@ -1,13 +1,13 @@
-import Logo from 'assets/svg/logo';
 import { Navs } from '@utils/links';
 import Link from 'next/link';
 import React from 'react';
 import { HeaderStyle } from './style';
+import Image from 'next/image';
 
 const Header = () => {
   return (
     <HeaderStyle>
-      <Logo />
+      <Image src='/img/logo.svg' alt="logo" width={197} height={77} />
       <nav>
         {Navs.map((e, i) => (
           <React.Fragment key={e.id}>

@@ -8,7 +8,8 @@ export const HeaderStyle = styled.header`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: fixed;
+  position: sticky;
+  top: 0;
   z-index: 99999;
   box-shadow: 0px 0 20px rgba(0, 0, 0, 0.6);
   svg {
@@ -19,15 +20,17 @@ export const HeaderStyle = styled.header`
     gap: 2rem;
     align-items: center;
     a {
-      font-size: 20px;
+      font-size: 16px;
       text-decoration: none;
       color: var(--color-text);
-      font-weight: 300;
+      font-weight: 400;
+      font-family: var(--font-primary);
+      text-transform: uppercase;
     }
     span {
       width: 1px;
       height: 35px;
-      background: var(--color-background-cobre);
+      background: #CCC0A6;
     }
     @media (max-width: 1024px) {
       display: none;

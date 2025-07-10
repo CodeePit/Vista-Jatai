@@ -12,6 +12,7 @@ import SectionImg from '@components/sections/sectionImg';
 import Sobre from '@components/sections/sobre';
 import ValuesSection from '@components/sections/values';
 import Whatsapp from '@components/whatsapp';
+import Legal from '@components/legal';
 
 const Home = () => {
   return (
@@ -29,6 +30,7 @@ const Home = () => {
       <DiferenciaisSection />
       <SectionForm />
       <Sobre />
+      <Legal />
       <Footer />
     </>
   );

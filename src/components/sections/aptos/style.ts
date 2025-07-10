@@ -4,7 +4,8 @@ export const AptosSectionStyle = styled.div`
   width: 100%;
   height: auto;
   padding: 8rem 8rem 10rem 8rem;
-  background-color: var(--color-background-bege);
+  background-image: url('/img/aptbg.jpg');
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -21,14 +22,19 @@ export const AptosSectionStyle = styled.div`
       align-items: start;
       gap: 0.5rem;
       h1 {
-        font-size: 40px;
+        font-size: 64px;
         font-weight: 400;
-        color: var(--color-background-darkVinho);
+        color: #3B2E38;
+        font-family: var(--font-secondary);
+        @media (max-width: 768px) {
+          font-size: 32px;
+          margin-top: 2rem;
+        }
       }
       .line {
         height: 1px;
         width: 100px;
-        background: var(--color-background-cobre);
+        background: #AD986A;
       }
       @media (max-width: 1200px) {
         align-items: center;
@@ -38,12 +44,12 @@ export const AptosSectionStyle = styled.div`
       white-space: nowrap;
       text-decoration: none;
       padding: 1rem 1.5rem;
-      background: var(--color-background-cobre);
+      background:#AD986A;
       border-radius: 7px;
       font-weight: 700;
       font-size: 18px;
       line-height: 24px;
-      color: var(--color-background-darkVinho);
+      color: white;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -56,9 +62,9 @@ export const AptosSectionStyle = styled.div`
     .content {
       display: flex;
       flex-direction: column;
-      gap: 2rem;
+      gap: 1rem;
       span {
-        color: var(--color-background-darkVinho);
+        color: #322939;
         font-size: 20px;
         font-weight: 400;
       }
@@ -77,11 +83,8 @@ export const AptosSectionStyle = styled.div`
         align-items: center;
         gap: 1rem;
         font-size: 20px;
-        background: var(--color-background-cobre);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
-        text-fill-color: transparent;
+        color: #AD986A;
+        font-weight: 700;
         svg {
           width: 70px;
         }
@@ -120,7 +123,7 @@ export const AptosSectionStyle = styled.div`
     transform: translateX(75%);
     button {
       padding: 1rem 3rem;
-      background-color: #dfd8ce;
+      background-color: #CCC0A6;
       border-radius: 6px;
       color: white;
       line-height: 24px;

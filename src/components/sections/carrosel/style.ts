@@ -7,7 +7,7 @@ export const CarroselStyle = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--color-background-darkVinho);
+  background-color: #322939;
   .mySwiper {
     width: 100%;
     height: 100%;

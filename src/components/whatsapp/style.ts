@@ -4,7 +4,7 @@ export const WhatsappStyle = styled.div`
   width: auto;
   padding: 1rem 1rem;
   max-width: 124px;
-  background: #67747d;
+  background: #27202C;
   position: fixed;
   z-index: 9999;
   right: 0;

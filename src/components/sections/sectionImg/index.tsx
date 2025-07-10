@@ -7,7 +7,7 @@ const SectionImg = () => {
       <div className="content">
         <Image
           alt="img-mapa"
-          src="/img/Localização-Drone.png"
+          src="/img/Localização-Drone.jpg"
           width={1920}
           height={730}
         />

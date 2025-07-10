@@ -4,6 +4,7 @@ export const FormStyle = styled.div`
   width: 55rem;
   height: auto;
   min-height: 540px;
+  border-radius: 7px;
   background: var(--color-background-cobre);
   display: flex;
   flex-direction: column;
@@ -96,12 +97,13 @@ export const FormStyle = styled.div`
     button {
       margin-top: 1rem;
       color: white;
-      padding: 1rem 2rem;
-      background: #594855;
+      padding: 1rem 1rem;
+      background: #322939;
       border-radius: 6px;
       font-weight: 700;
+      color: #F3ECE2;
       font-family: var(--font-primary);
-      font-size: 14px;
+      font-size: 20px;
       transition: all 0.5s;
       :hover {
         transform: scale(1.02);

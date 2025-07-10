@@ -4,12 +4,12 @@ export const FooterStyle = styled.footer`
   width: 100%;
   padding: 2rem;
   height: auto;
-  background-color: #48545d;
+  background-color: #CCC0A6;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: white;
+  color: #322939;
   gap: 2rem;
   font-family: var(--font-primary);
   .values {
@@ -29,6 +29,7 @@ export const FooterStyle = styled.footer`
   a {
     font-size: 18px;
     text-decoration: none;
-    color: white;
+    color: #322939;
+    font-weight: 700;
   }
 `;

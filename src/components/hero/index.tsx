@@ -7,14 +7,14 @@ const Hero = () => {
       <Image
         alt=""
         className="hero"
-        src="/img/hero-banner.jpg"
+        src="/img/hero-banne.jpg"
         width={1920}
         height={730}
       />
       <Image
         alt=""
         className="hero-mobile"
-        src="/img/hero-banner-mobile.jpg"
+        src="/img/hero-banner-mobil.jpg"
         width={1920}
         height={730}
       />

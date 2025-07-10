@@ -11,12 +11,42 @@ export const SectionFormStyle = styled.div`
   align-items: center;
   padding: 5rem;
   gap: 3rem;
+  .text {
+    max-width: 55rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+      gap: 1rem;
+      .location {
+        color: #322939;
+        font-weight: 400;
+        font-size: 18px;
+        strong {
+          font-weight: 700;
+        }
+      }
+      a {
+        color: #322939;
+        font-weight: 700;
+        font-size: 16px;
+        text-decoration: none;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        padding: 0.5rem 1rem;
+        border-radius: 7px;
+        background: transparent;
+        border: 1px solid #322939;
+      }
+      @media (max-width: 768px) {
+        flex-direction: column;
+        gap: 2rem;
+        text-align: center;
+      }
+  }
   .title {
-    background: var(--color-background-cobre);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-fill-color: transparent;
+    color: #322939;
     font-weight: 500;
     font-size: 28px;
     strong {
