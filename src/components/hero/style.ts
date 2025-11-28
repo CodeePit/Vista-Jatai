@@ -2,33 +2,31 @@ import styled from 'styled-components';
 
 export const HeroStyle = styled.div`
   width: 100%;
-  height: 85vh;
-  background-color: black;
+  height: fit-content;
+  background-color: #ccc0a6;
   box-shadow: 0 0 30px 10px rgba(0, 0, 0, 0.2);
   position: relative;
-  .hero {
+  overflow-y: hidden;
+  .hero-swiper,
+  .hero-swiper .swiper-wrapper,
+  .hero-swiper .swiper-slide {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+  }
+  
+  .swiper-pagination{
+      margin-top: 0 !important;
+      position: absolute !important;
+  }
+
+  .hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
     object-position: left bottom;
-    @media (max-width: 768px) {
-      display: none;
-    }
   }
-
-  .hero-mobile {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: none;
-    object-position: bottom;
-
-    @media (max-width: 768px) {
-      display: block;
-    }
-  }
-
+/* 
   @media (max-width: 768px) {
     height: 95vh;
-  }
+  } */
 `;
