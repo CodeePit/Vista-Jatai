@@ -13,10 +13,10 @@ export const HeroStyle = styled.div`
     width: 100%;
     height: 100%;
   }
-  
-  .swiper-pagination{
-      margin-top: 0 !important;
-      position: absolute !important;
+
+  .swiper-pagination {
+    margin-top: 0 !important;
+    position: absolute !important;
   }
 
   .hero-image {
@@ -25,8 +25,8 @@ export const HeroStyle = styled.div`
     object-fit: contain;
     object-position: left bottom;
   }
-/* 
-  @media (max-width: 768px) {
+
+  /* @media (max-width: 768px) {
     height: 95vh;
   } */
 `;
